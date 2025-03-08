@@ -1,0 +1,8 @@
+src/
+node_modules/
+*.log
+*.lock
+tests/
+coverage/
+tsconfig.json
+pnpm-lock.yaml
