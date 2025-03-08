@@ -6,3 +6,4 @@ tests/
 coverage/
 tsconfig.json
 pnpm-lock.yaml
+Makefile
